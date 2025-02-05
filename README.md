@@ -68,3 +68,6 @@ The simulation then compares the decoded data with the original data (ignoring t
 ## Conclusion
 
 This repository demonstrates a complete simulation of a digital communication system with error detection and encoding mechanisms. It is useful for understanding the effects of transmission errors on encoded data and the effectiveness of CRC in error detection. Feel free to explore, modify, and extend the code for further experimentation or integration into larger projects.
+
+## Author
+Amin Davoodabadi
